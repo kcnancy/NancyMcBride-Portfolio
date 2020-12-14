@@ -10,7 +10,9 @@ This website will be responsive for all sizes of display. I began this project w
 I then changed my bootstrap reference to the more stable ver 4.5. both for stability and ease in looking up reference documentation.
 
 As my knowledge of coding grows I will be updating and adding to this basic site. 
-I ran code validation and made corrections to all 3 html files. The PNG's are below.
+I ran code validation and made corrections to all 3 html files. The PNG's are below:
+
+
 kcnancy.github.io-NancyMcBride\Assets\indexhtmlscreencapture-validator-w3-org-nu-2020-12-14-15_12_09.png
 kcnancy.github.io-NancyMcBride\Assets\contacthtml-screencapture-validator-w3-org-nu-2020-12-14-15_14_46.png
 kcnancy.github.io-NancyMcBride\Assets\portfoliohtml-screencapture-validator-w3-org-nu-2020-12-14-15_19_51.png
