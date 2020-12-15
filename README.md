@@ -17,3 +17,4 @@ kcnancy.github.io-NancyMcBride\Assets\indexhtmlscreencapture-validator-w3-org-nu
 kcnancy.github.io-NancyMcBride\Assets\contacthtml-screencapture-validator-w3-org-nu-2020-12-14-15_14_46.png
 kcnancy.github.io-NancyMcBride\Assets\portfoliohtml-screencapture-validator-w3-org-nu-2020-12-14-15_19_51.png
 
+Final commit before submission corrected the navbar toggle for mobile/small screen view.
