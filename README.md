@@ -58,15 +58,18 @@ Each card has an image of the deployed project/assignment as well as 'Click here
 
 
 ## Usage
-I used HTML, Bootstrap, Formspree and Snip and Sketch 
+I used HTML, Bootstrap, jQuery, Formspree and Snip and Sketch 
 
 ## Future Enhancements
 As my knowledge and experience grow I will be adding to this Portfolio.
 
 ## Credits
 Portfolio, Index and Contact Me pages Nancy McBride
+
 Dogtionary Project - Brenna McLeod, Matthew Bishop, Nancy McBride
+
 Code Quiz Project - Nancy McBride
+
 Password Generator - Nancy McBride
 
 
