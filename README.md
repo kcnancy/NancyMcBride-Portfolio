@@ -52,10 +52,10 @@ This is what the user sees after successfully sending an email from the contact 
 ![Thanks!](Assets/images/thanks.png)
 
 The last page is the portfolio page. For this page I restyled my layout using the card deck from Bootstrap.
+Each card has an image of the deployed project/assignment as well as 'Click here' links to the Github repo and the deployed webpage.
 
 
-
-![Nancy McBride Portfolio](Assets/portfolio.png)
+![Nancy McBride Portfolio](Assets/images/portfolio.png)
 
 
 Final commit before submission corrected the navbar toggle for mobile/small screen view.
