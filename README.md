@@ -7,7 +7,6 @@ https://kcnancy.github.io/NancyMcBride-Portfolio/
 * [User Story](#userstory)
 * [Development](#development)
 * [Usage](#usage)
-* [Tests and Known Issues](#tests-and-known-issues)
 * [Future Enhancements](#future-enhancements)
 * [Credits](#credits)
 * [License](#license)
@@ -43,7 +42,7 @@ For the bio or About Me page, I used Bootstrap and containers to include an imag
 
 
 The Contact Form page was completely rebuilt for this version of my Portfolio. 
-The navbar functions the same as on the index.html. I used Bootstrap and a small custom css to create my contact me info box. I used Formspree to make the submit button actually send an email.
+The navbar functions the same as on the index.html. I used Bootstrap to create my contact me info box. I used Formspree to make the submit button actually send an email.
  
 ![Contact Me](Assets/images/contactme.png)
 
@@ -58,4 +57,40 @@ Each card has an image of the deployed project/assignment as well as 'Click here
 ![Nancy McBride Portfolio](Assets/images/portfolio.png)
 
 
-Final commit before submission corrected the navbar toggle for mobile/small screen view.
+## Usage
+I used HTML, Bootstrap, Formspree and Snip and Sketch 
+
+## Future Enhancements
+As my knowledge and experience grow I will be adding to this Portfolio.
+
+## Credits
+Portfolio, Index and Contact Me pages Nancy McBride
+Dogtionary Project - Brenna McLeod, Matthew Bishop, Nancy McBride
+Code Quiz Project - Nancy McBride
+Password Generator - Nancy McBride
+
+
+## License
+MIT License
+
+Copyright (c) 2021 KU Boot Camp
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
