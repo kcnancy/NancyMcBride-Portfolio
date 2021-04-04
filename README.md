@@ -72,6 +72,8 @@ Code Quiz Project - Nancy McBride
 
 Password Generator - Nancy McBride
 
+Note Taker - Nancy McBride
+
 
 ## License
 MIT License
